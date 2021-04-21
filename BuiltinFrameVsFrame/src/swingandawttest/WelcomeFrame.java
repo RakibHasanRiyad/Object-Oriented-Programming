@@ -40,6 +40,7 @@ public class WelcomeFrame {
         // TODO code application logic here
         
         JFrame jFrame = new JFrame();
+        jFrame.setTitle("Manual Frame");
         jFrame.setSize(800, 500);
         //jFrame.setLocationRelativeTo(jFrame);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
